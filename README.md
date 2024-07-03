@@ -1,4 +1,4 @@
-<h1 align="center">✨Hi, I'm Vivaswan Nawani</h1>
+<h1 align="center">✨Hi, I'm Vivaswan Nawani!</h1>
 <h3 align="center">I'm a 4th-year Electronics and Communication Engineering student at IIITD with a keen interest in Computer Science. I am passionate about problem-solving, particularly in the areas of Algorithms, Machine Learning, and Web Development. I enjoy tackling complex challenges, building innovative projects, and continuously expanding my knowledge.</h3>
 
 - 🔭 I’m currently working at the **Theoretical Computer Science Lab, IIITD**
